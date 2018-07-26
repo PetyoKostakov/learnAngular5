@@ -1,3 +1,7 @@
+# Lynda - Learning Angular JS 2
+https://www.lynda.com/Angular-tutorials/Learning-AngularJS-2/572160-2.html
+git/learnAngular5
+
 # LearnAngular5
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
